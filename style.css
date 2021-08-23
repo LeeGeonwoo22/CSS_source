@@ -108,7 +108,7 @@ header .logo
 .searchBox
 {
     position :absolute;
-    bottom : 0;
+    bottom : -80px;
     display: flex;
     justify-content: center;
     align-items: center;
